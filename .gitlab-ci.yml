@@ -22,4 +22,3 @@ test:
         paths:
             - ${CI_PROJECT_DIR}/test.sh.log
         when: always
-    runs-on: self-hosted
